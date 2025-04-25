@@ -116,13 +116,64 @@ This is how osTicket should look when it pulls up in the web browser.
 
   &emsp;- Refresh osTicket browser and see they are enabled
 
+- Step 15: rename ost-config.php
 
+  &emsp; - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+  
+  &emsp; - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
+- Step16: Assign permissions - ost-config.php
+
+  &emsp; - Right click-> properties -> security -> advancted -> Disable inheritance -> remove all
+
+  &emsp; - Click add -> principal -> Everyone -> ok -> check “full control” -> ok ok ok (now osTicket has control to the configuration file)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="497" alt="image 4 like this " src="https://github.com/user-attachments/assets/7c89bbe1-bd7c-48da-b65f-07e7e85a38a7" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The access should look something like this
 </p>
 <br />
+
+- Step 17: Set up rest of osTicket
+
+  &emsp; - username : testtoad
+
+  &emsp;- Password: Password1
+
+- Step 18: from “osTicket installation files” install “HeidiSQL_12.3.0.6589_Setup”
+
+  &emsp;- Double click -> check accept box -> ok ok ok
+
+  &emsp;- Create new session -> click new root/root
+
+  &emsp;- Create data base called “osTicket” -> rightclick dolphin -> create new -> database
+
+- Step19: continue setting up osTicket from browser
+
+  &emsp;- MySQL Database: osTicket
+
+  &emsp;- MySQL Username: root
+
+  &emsp;- MySQL Password: root
+
+  &emsp;- Install now
+
+- Step 20: Congratulations osTicket is installed!
+
+  &emsp;- login page: http://localhost/osTicket/scp/login.php
+
+  &emsp;&emsp;- Username: testtoad
+
+  &emsp;&emsp;- Password: Password1
+
+  &emsp;- Enter Tickets: http://localhost/osTicket/
+
+
+
+
+
+
+
+  
