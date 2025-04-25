@@ -40,8 +40,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-- Item 4
-- Item 5
+- Step4: create a folder on c drive called “PHP”
+
+  
+- Step5: in osTicket folder extract all from -> (php-7.3.8-nts-Win32-VC15-x86.zip) into PHP folder
+
 
 <h2>Installation Steps</h2>
 
