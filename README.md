@@ -64,7 +64,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="1280" alt="image 1 os Ticket Install" src="https://github.com/user-attachments/assets/013f44f1-f185-4422-867b-34d51bbc7566" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is kinda what your screen should look like. You got the “osTicket” file opened on the left and the normal folder opened in the middle. The two folders on the left are the osTicket folders, one is the unzipped/extracted version of the other.
 </p>
 <br />
 
