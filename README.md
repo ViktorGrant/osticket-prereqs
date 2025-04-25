@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Start 20 step process</h2>
 
-- Step 1: Download the  osTicket-Installation-Files.zip and unzip/extract
+- Step 1: download the osTicket-Installation-Files.zip and unzip/extract
 
 - Step 2: Install / Enable IIS in Windows WITH CGI
   
