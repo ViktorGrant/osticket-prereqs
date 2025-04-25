@@ -45,6 +45,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 - Step5: in osTicket folder extract all from -> (php-7.3.8-nts-Win32-VC15-x86.zip) into PHP folder
 
+- Step6: install VC_redist.x86
+
+- Step7: install mysql-5.5.62-win32
+  
+  &emsp;- Launch standard configuration
+  
+  &emsp;- Username: root
+  
+  &emsp;- Password: root
+
+
+
 
 <h2>Installation Steps</h2>
 
