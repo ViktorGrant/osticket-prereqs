@@ -89,17 +89,35 @@ This is the ISS and how to (Start | Stop) it
 - Step 13: Load os ticket site
   
    &emsp;- ISS -> sites -> default -> osTicket
+  
    &emsp;- On the right click “Browse*.80(http)” (this should pull up the osTicket site)
 
-
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1280" alt="image 3 osTiket page" src="https://github.com/user-attachments/assets/3a135bd2-c1f1-4d1a-9012-fd90583cbe5b" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is how osTicket should look when it pulls up in the web browser.
 </p>
 <br />
+
+- Step 14: Notice some extensions are not enabled
+
+  &emsp;- ISS -> Sites -> Default sites -> osTicket
+
+  &emsp;- ISS -> Sites -> Default sites -> osTicket
+
+  &emsp;- ISS -> Sites -> Default sites -> osTicket
+
+  &emsp;&emsp;- Enable: php_imap.dll
+
+  &emsp;&emsp;- Enable: php_intl.dll
+
+  &emsp;&emsp;- Enable: php_opcache.dll
+
+  &emsp;- Refresh osTicket browser and see they are enabled
+
+
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
