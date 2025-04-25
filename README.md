@@ -24,6 +24,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Step 1: download the osTicket-Installation-Files.zip and unzip/extract
 
+  &emsp;- link -> https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
+
 - Step 2: Install / Enable IIS in Windows WITH CGI
   
   &emsp;- Control panel -> Programs -> Uninstall Programs -> Turn Windows features onoff
