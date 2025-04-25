@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### coming soon
 
 <h2>Environments and Technologies Used</h2>
 
@@ -20,11 +20,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Start 20 step process</h2>
 
-- Item 1
-- Item 2
-- Item 3
+- Step 1: Download the  osTicket-Installation-Files.zip and unzip/extract
+
+- Step 2: Install / Enable IIS in Windows WITH CGI
+  
+  &emsp;- Control panel -> Programs -> Uninstall Programs -> Turn Windows features onoff
+  
+  &emsp;- Check Internet Information Services
+  
+  &emsp;- www  services -> App Dev Features -> CGI
+
+- step 3: 
 - Item 4
 - Item 5
 
