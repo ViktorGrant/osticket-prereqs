@@ -68,6 +68,31 @@ This is kinda what your screen should look like. You got the “osTicket” file
 </p>
 <br />
 
+- Step8: open IIS as admin -> start -> search “iis” -> run as adim
+
+- Step9: Register PHP from within IIS -> php manager -> register new php version -> browse to php folder inside get “php-cgi”
+
+- Step 10: refresh IIS -> top left of IIS under “connections” right click “practice-osTicket” -> click stop -> wait -> click start
+
+<p>
+<img width="1280" alt="image 2 start and stop ISS" src="https://github.com/user-attachments/assets/adb338f1-5c63-4ba7-a6af-249f873eea76" />
+</p>
+<p>
+This is the ISS and how to (Start | Stop) it
+
+- Step 11: Install “osTicket-v1.15.8.zip” -> extract -> it will open folder w “scripts | upload”
+  
+  &emsp;- Put the “upload” folder into “c:\inetpub\wwwroot” and rename “upload” to “osTicket”
+
+- Step 12: reload ISS (stop | start)
+
+- Step 13: Load os ticket site
+  
+   &emsp;- ISS -> sites -> default -> osTicket
+   &emsp;- On the right click “Browse*.80(http)” (this should pull up the osTicket site)
+
+
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
