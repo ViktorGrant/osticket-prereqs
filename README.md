@@ -32,7 +32,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
   &emsp;- www  services -> App Dev Features -> CGI
 
-- step 3: 
+- Step 3: Inside osTicket folder Install
+
+  &emsp;- PHP (PHPManagerForIIS_V1.5.0.msi)
+
+  &emsp; - Rewrite module (rewrite_amd64_en-US.msi)
+
+
+
 - Item 4
 - Item 5
 
