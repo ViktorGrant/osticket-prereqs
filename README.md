@@ -40,14 +40,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-- Step4: create a folder on c drive called “PHP”
+- Step 4: Create a folder on C drive called “PHP”
 
   
-- Step5: in osTicket folder extract all from -> (php-7.3.8-nts-Win32-VC15-x86.zip) into PHP folder
+- Step 5: in osTicket folder extract all from -> (php-7.3.8-nts-Win32-VC15-x86.zip) into PHP folder
 
-- Step6: install VC_redist.x86
+- Step 6: install VC_redist.x86
 
-- Step7: install mysql-5.5.62-win32
+- Step 7: install mysql-5.5.62-win32
   
   &emsp;- Launch standard configuration
   
@@ -58,7 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-<h2>Installation Steps</h2>
+<h2>osTicket Installation Files</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
