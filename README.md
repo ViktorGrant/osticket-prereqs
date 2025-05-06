@@ -105,16 +105,16 @@ This is how osTicket should look when it pulls up in the web browser.
 - Step 14: Notice some extensions are not enabled
 
   &emsp;- ISS -> Sites -> Default sites -> osTicket
+  
+  &emsp;&emsp;&emsp;- double click PHP manager (icon)
 
-  &emsp;- ISS -> Sites -> Default sites -> osTicket
+  &emsp;&emsp;&emsp;- click "enable or disable an extension" 
 
-  &emsp;- ISS -> Sites -> Default sites -> osTicket
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Enable: php_imap.dll
 
-  &emsp;&emsp;- Enable: php_imap.dll
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Enable: php_intl.dll
 
-  &emsp;&emsp;- Enable: php_intl.dll
-
-  &emsp;&emsp;- Enable: php_opcache.dll
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- Enable: php_opcache.dll
 
   &emsp;- Refresh osTicket browser and see they are enabled
 
