@@ -122,7 +122,7 @@ This is how osTicket should look when it pulls up in the web browser.
 
   &emsp; - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
   
-  &emsp; - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+  &emsp; - From: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 - Step16: Assign permissions - ost-config.php
 
